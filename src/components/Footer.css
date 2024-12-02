@@ -1,0 +1,13 @@
+.footer {
+    background: #343a40;
+    color: #041f3a;
+    text-align: center;
+    padding: 15px 0;
+  }
+.footer span {
+    margin: 0 10px;
+  }
+.footer span:hover {
+    color: #f1c40f;
+  }
+  

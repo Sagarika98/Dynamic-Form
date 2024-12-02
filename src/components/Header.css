@@ -1,0 +1,17 @@
+header {
+    background: linear-gradient(90deg, #4b6cb7, #182848);
+    color: black;
+    padding: 20px 0;
+  }
+.nav-link:hover {
+    color: #f1c40f;
+    text-decoration: underline;
+  }
+.btn-warning {
+    background-color: #f1c40f;
+    border-color: #f39c12;
+  }
+.btn-warning:hover {
+    background-color: #d4ac0d;
+  }
+  
